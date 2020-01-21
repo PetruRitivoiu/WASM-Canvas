@@ -2,7 +2,7 @@
 
 HTML Canvas with logic written in C programming language, compiled with Emscripten into a WebAssembly Module.
 
-Demo project from "Getting started with WebAssembly & Emscripten" course on Udemy (https://www.udemy.com/course/webassembly-emscripten/) made to ilustrate the benefits of using WebAssembly & Emscripten where a lot of computation needs to be done on the client side of a website.
+Demo project from "Getting started with WebAssembly & Emscripten" course on Udemy (https://www.udemy.com/course/webassembly-emscripten/) made to ilustrate the benefits of using WebAssembly & Emscripten in situations when a lot of computation needs to be done on the client side of a website.
 
 ## Running the project on your machine
 
